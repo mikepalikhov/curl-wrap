@@ -11,8 +11,17 @@
             "url": "https://github.com/mikepalikhov/array-arguments"
         },
         {
-            "type": "path",
-            "url": "local/array-arguments"
+            "type": "package",
+            "package": {
+                "name": "mikepalikhov/array-arguments",
+                "version": "*",
+                "type":"library",
+                "source": {
+                    "url": "https://github.com/mikepalikhov/array-arguments.git",
+                    "type": "git",
+                    "reference": "master"
+                }
+            }
         }
     ],
     "autoload": {
