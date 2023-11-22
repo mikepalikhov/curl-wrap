@@ -6,8 +6,8 @@
     },
     "repositories": [
         {
-            "type": "git",
-            "url": "https://github.com/mikepalikhov/curl-wrap.git"
+            "type": "vcs",
+            "url": "https://github.com/mikepalikhov/complex-array-arguments"
         }
     ],
     "autoload": {
