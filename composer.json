@@ -5,16 +5,6 @@
     "require": {
         "mikepalikhov/array-arguments": "*"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/mikepalikhov/array-arguments"
-        }
-    ],
-    "packages": {
-        "mikepalikhov/array-arguments": {
-        }
-    },
     "autoload": {
         "psr-4": { "MikePal\\": "src/" }
     }
