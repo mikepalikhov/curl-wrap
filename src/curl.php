@@ -4,6 +4,6 @@ namespace MikePal;
 
 class Curl {
     function __construct($params) {
-        $this = ArrArgs::HandleArgs($params);
+        $this->args = ArrArgs::HandleArgs($params);
     }
 }
