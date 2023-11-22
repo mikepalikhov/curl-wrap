@@ -4,12 +4,12 @@
     "type": "library",
     "minimum-stability": "dev",
     "require": {
-        "mikepalikhov/complex-array-arguments": "*"
+        "mikepalikhov/array-arguments": "*"
     },
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/mikepalikhov/complex-array-arguments"
+            "url": "https://github.com/mikepalikhov/array-arguments"
         }
     ],
 
