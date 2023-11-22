@@ -8,20 +8,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/mikepalikhov/array-arguments"
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "mikepalikhov/array-arguments",
-                "version": "*",
-                "type":"library",
-                "source": {
-                    "url": "https://github.com/mikepalikhov/array-arguments",
-                    "type": "git",
-                    "reference": "master"
-                }
-            }
+            "url": "https://github.com/mikepalikhov/array-arguments.git"
         }
     ],
     "packages": {
