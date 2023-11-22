@@ -3,6 +3,7 @@
 namespace MikePal;
 
 class Curl {
-    function __construct() {
+    function __construct($params) {
+        $this = ArrArgs::HandleArgs($params);
     }
 }
