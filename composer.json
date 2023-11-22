@@ -9,6 +9,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/mikepalikhov/array-arguments"
+        },
+        {
+            "type": "path",
+            "url": "local/array-arguments"
         }
     ],
     "autoload": {
