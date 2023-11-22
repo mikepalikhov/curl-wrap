@@ -2,10 +2,15 @@
     "name": "mikepalikhov/curl-wrap",
     "version": "1.0.0",
     "type": "library",
-    "minimum-stability": "dev",
     "require": {
-        "array-arguments": "*"
+        "mikepalikhov/array-arguments": "*"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mikepalikhov/array-arguments"
+        }
+    ],
     "autoload": {
         "psr-4": { "MikePal\\": "src/" }
     }
