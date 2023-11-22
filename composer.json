@@ -4,14 +4,8 @@
     "type": "library",
     "minimum-stability": "dev",
     "require": {
-        "mikepalikhov/array-arguments": "*"
+        "array-arguments": "*"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/mikepalikhov/array-arguments"
-        }
-    ],
     "autoload": {
         "psr-4": { "MikePal\\": "src/" }
     }
