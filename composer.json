@@ -1,0 +1,13 @@
+{
+    "name": "mikepalikhov/curl-wrap",
+    "version": "1.0.0",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/mikepalikhov/curl-wrap.git"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "MikePal\\": "src/" }
+    }
+}
