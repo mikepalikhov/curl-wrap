@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "type": "library",
     "require": {
-        "mikepalikhov/complex-array-arguments": "1.0.*"
+        "mikepalikhov/complex-array-arguments": "*"
     },
     "repositories": [
         {
