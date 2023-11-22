@@ -1,6 +1,9 @@
 {
     "name": "mikepalikhov/curl-wrap",
     "version": "1.0.0",
+    "require": {
+        "mikepalikhov/curl-wrap": "1.0.*"
+    },
     "repositories": [
         {
             "type": "git",
