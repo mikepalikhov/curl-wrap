@@ -9,7 +9,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/mikepalikhov/array-argumentss"
+            "url": "https://github.com/mikepalikhov/array-arguments"
         }
     ],
     "autoload": {
