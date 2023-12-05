@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "type": "library",
     "minimum-stability": "dev",
-    "require": {
+    "require-dev": {
         "mikepalikhov/array-arguments": "*@dev"
     },
     "repositories": [
