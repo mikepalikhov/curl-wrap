@@ -1,7 +1,7 @@
 {
     "name": "mikepalikhov/curl-wrap",
     "version": "1.0.0",
-    "type": "project",
+    "type": "library",
     "minimum-stability": "dev",
     "require": {
         "mikepalikhov/array-arguments": "*@dev"
